@@ -1,1 +1,1 @@
-# exercicio1-leonardo-freitas-e-henrique-mayor
+# Exercicio 1 de Java feito por Henrique Mayor e Leonardo Freitas
